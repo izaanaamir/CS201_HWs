@@ -1,5 +1,5 @@
 # CS201_HWs
-My solutions to the labs of Bilkent University's Fundamental Structures of Computer Science I course. (2021-2022)
+My solutions to the homeworks of Bilkent University's Fundamental Structures of Computer Science I course. (2021-2022)
 
 ### Topics:
 `HW 1`: Creating and running dynamically allocated multi-dimensional arrays using pointers while performing operations on the arrays.
